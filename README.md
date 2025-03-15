@@ -29,6 +29,7 @@ cd CDN
 
 3. Build and run:
 ```bash
+mkdir uploads
 pip install fastapi uvicorn
 uvicorn app:app
 nginx.exe -c "nginx.conf"

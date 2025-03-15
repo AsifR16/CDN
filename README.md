@@ -19,12 +19,12 @@ A lightweight Content Delivery Network (CDN) built using FastAPI, Python, and NG
 ### Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/AsifR16/cdn-fastapi.git
+git clone https://github.com/AsifR16/CDN.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd cdn-fastapi
+cd CDN
 ```
 
 3. Build and run:
